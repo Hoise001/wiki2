@@ -1,7 +1,5 @@
 ---
 cssClasses: index
-dg-publish: true
-dg-home: true
 ---
 ![[Compendium.jpg|banner]]
 ###### <span class="head">Журнал Компании</span> 
