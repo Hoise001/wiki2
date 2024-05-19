@@ -1,0 +1,244 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 0,
+    "name": "Sunday",
+    "shortName": "Su"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "+ Добавить Регион",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "region",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/REGION.md",
+          "folderPath": "Компендиум/Атлас",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Мир/Планету",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "realm",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/REALM.md",
+          "folderPath": "Компендиум/Атлас",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Квест",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "quest",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/QUEST.md",
+          "folderPath": "Компендиум/Партия/Квесты",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить План Бытия",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "plane",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/PLANE.md",
+          "folderPath": "Компендиум/Атлас",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Организацию",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "org",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/ORGANIZATION.md",
+          "folderPath": "Компендиум/Лор/Организации",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Предмет/Объект",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "object",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/OBJECT.md",
+          "folderPath": "Компендиум/Лор/Объекты & Предметы",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Заметку",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "note",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/NOTE.md",
+          "folderPath": "Сессионные Заметки",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Место Действия",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "locale",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/LOCALE.md",
+          "folderPath": "Компендиум/Атлас",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Ориентир",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "landmark",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/LANDMARK.md",
+          "folderPath": "Компендиум/Атлас",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Божество",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "deity",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/GOD.md",
+          "folderPath": "Компендиум/Лор/Божества",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Событие",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "event",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/EVENT.md",
+          "folderPath": "Компендиум/Лор/События",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить НПС",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "npc",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/NPC.md",
+          "folderPath": "Компендиум/НПСы",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    },
+    {
+      "label": "+ Добавить Континент",
+      "hidden": true,
+      "class": "callButton",
+      "tooltip": "",
+      "id": "continent",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Assets/Templates/CONTINENT.md",
+          "folderPath": "Компендиум/Атлас",
+          "fileName": "temp",
+          "openNote": false
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

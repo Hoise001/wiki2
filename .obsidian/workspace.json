@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "37851a3ed664027e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd40c2b2974bd63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6db6be4a90a072f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0c4fa8c16fa7dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d4a1682a5ce5a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ebca63e5ad41f49",
+        "type": "tabs",
+        "dimension": 21.929824561403507,
+        "children": [
+          {
+            "id": "5d147873dd2a9c1d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/header.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e4b925e77e3b6ae",
+        "type": "tabs",
+        "dimension": 78.0701754385965,
+        "children": [
+          {
+            "id": "97418e9d456729af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a9cb58b5c9e6a9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 684.5
+  },
+  "right": {
+    "id": "8c5f2a8505d045f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4dd05440fcc20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de32d393a803157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INDEX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14e1f77c0f6885d1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 930.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "modalforms:Edit forms": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "translate:Open translation view": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "a0c4fa8c16fa7dde",
+  "lastOpenFiles": [
+    "Assets/Templates/STARTUP.md",
+    "README.md",
+    "Assets/Templates/NOTE.md",
+    "Assets/Templates/QUEST.md",
+    "Assets/Templates/NPC.md",
+    "Assets/Templates/OBJECT.md",
+    "Assets/Templates/ORGANIZATION.md",
+    "Assets/Templates/PLANE.md",
+    "Assets/Templates/REALM.md",
+    "Assets/Templates/REGION.md",
+    "Assets/Templates/Показать Статы.md",
+    "Компендиум/Атлас/План Смертных/План Смертных.md",
+    "INDEX.md",
+    "Компендиум/Партия/Персонажи/Мартин.md",
+    "Компендиум/Атлас/План Стихий/План Стихий.md",
+    "Компендиум/НПСы/Парпок.md",
+    "Компендиум/НПСы/temp.md",
+    "Компендиум/Партия/Персонажи/Ларкас.md",
+    "Компендиум/Партия/Персонажи/Баркранд.md",
+    "Компендиум/Партия/Квесты/temp.md",
+    "Компендиум/Карты/Карта.md",
+    "Компендиум/Атлас/План Эфира/План Эфира.md",
+    "Assets/Images/output-onlinepngtools.png",
+    "Assets/Images/output-onlinepngtools.png.crdownload",
+    "Сессионные Заметки/Session 01 (2024-05-07).md",
+    "Сессионные Заметки/Session 01 (2024-04-30).md",
+    "Сессионные Заметки/Session 01 (2024-05-01).md",
+    "Компендиум/Партия/Персонажи/ВСТАВЬ СЮДА ИМЯ ПЕРСОНАЖА 1.md",
+    "Компендиум/Атлас/План Эфира",
+    "Компендиум/Атлас/План Теней",
+    "Компендиум/Атлас/План Стихий",
+    "Компендиум/Атлас/План Смертных",
+    "Компендиум/Партия/Листы Персонажей (pdf)/Персонаж.pdf",
+    "Компендиум/Атлас/цуцуц",
+    "Компендиум/Атлас/Инлитэн",
+    "Компендиум/Атлас/Бараквал (шард)",
+    "Компендиум/Атлас/Аквинокс",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/go-json-translate-1.0.0/images/go-json-translate-logo.svg",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/touch_bar_preview.png",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/mstile-70x70.png",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/mstile-310x310.png",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/mstile-310x150.png",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/mstile-150x150.png",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/mstile-144x144.png",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/maskable_icon.png",
+    "ttrpg-convert-cli-2.3.12-windows-x86_64/bin/5etools-mirror-2.github.io/icon/icon-512.png"
+  ]
+}
